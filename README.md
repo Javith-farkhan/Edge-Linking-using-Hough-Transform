@@ -96,19 +96,23 @@ plt.show()
 
 ### Input image:
 
+![carss](https://github.com/Javith-farkhan/Edge-Linking-using-Hough-Transform/assets/94296805/2b94c576-c222-4d00-9132-114324fadcff)
 
 
 ### Grayscale image:
 
-![out1](https://user-images.githubusercontent.com/93427534/233145958-5305b595-20f2-4f60-b7fc-174b74ec48b3.png)
+![Di8 1](https://github.com/Javith-farkhan/Edge-Linking-using-Hough-Transform/assets/94296805/fda7fd66-bb36-4cc3-be05-bc4705e2491e)
+
 
 ### Canny Edge detector output:
 
-![out2](https://user-images.githubusercontent.com/93427534/233145966-b57a8fb2-ee3e-4acc-b12f-5ef64959367e.png)
+![Di8 2](https://github.com/Javith-farkhan/Edge-Linking-using-Hough-Transform/assets/94296805/b27508b8-db47-4784-bed1-466f4e11fc71)
+
 
 ### Display the result of Hough transform:
 
-![out3](https://user-images.githubusercontent.com/93427534/233145980-057a2dbe-8d54-4a7a-bbb3-c154c81737ff.png)
+![Di8 3](https://github.com/Javith-farkhan/Edge-Linking-using-Hough-Transform/assets/94296805/0d3cc618-947d-4da0-a7cd-f9d4e044e879)
+
 
 ## Result:
 
